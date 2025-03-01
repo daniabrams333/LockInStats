@@ -1,7 +1,7 @@
 # LockInStats
 <h1>Apple Developer Academy | MSU 2024/2025 Challenge 1 Group Project</h1>
 
-This project is an updated version of our groups final prject with an updated Stats screen with more functionality.
+This project is an updated version of our groups final project with an updated Stats screen with more functionality.
 
 I added a UserViewModel and learned how to incorporate the MVVM software architecture.
 

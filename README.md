@@ -10,9 +10,9 @@ NOTE: this is an evolution of the LockIN group project by Team Celestial:
 Coders and Designers included:
 
 <a href="https://github.com/Lessley2830">Lessley Romero-Rodriguez </a>
-Hana Harris
-Marshall Tolbert
-Jacob Weathersby
+Hana Harris <br>
+Marshall Tolbert <br>
+Jacob Weathersby <br>
 
 
 <img width="570" alt="Screenshot 2025-03-01 at 1 43 23 PM" src="https://github.com/user-attachments/assets/a7619df4-d418-47b3-8b2e-23a2900c8e0e" />
